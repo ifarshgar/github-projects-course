@@ -3,5 +3,5 @@
 [Go here...](https://github.com/ifarshgar/github-projects-course/projects?query=is%3Aopen)
 
 Making a checklist:
-- [ ] One
+- [x] One
 - [ ] Two
